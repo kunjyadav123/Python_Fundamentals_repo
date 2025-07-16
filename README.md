@@ -26,4 +26,16 @@ This repository includes categorized Python scripts on topics like:
 
 --- 
 
+## 📬 Contact
+
+**Pankaj Yadav**  
+📧 pankajyadav2021ii@gmail.com  
+📍 Lucknow, India  
+🔗 [LinkedIn](https://www.linkedin.com/in/pankaj-yadav-590087360/) | [GitHub](https://github.com/kunjyadav123/Python_repository/)
+
+---
+
+## ⭐ If you find this helpful...
+
+Give the repo a ⭐ and follow me on GitHub for more content on Data Science and Machine Learning!
 
