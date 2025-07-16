@@ -24,12 +24,6 @@ This repository includes categorized Python scripts on topics like:
 
 > Each script is self-contained, well-commented, and tested.
 
----
-
-## 🧑‍💻 How to Use This Repo?
-
-### 1. Clone the Repository:
-```bash
-https://github.com/kunjyadav123/Python_repository/
+--- 
 
 
