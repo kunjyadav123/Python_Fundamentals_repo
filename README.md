@@ -9,6 +9,7 @@ It's designed as a reference hub for learners and developers who want to **explo
 
 This repository includes categorized Python scripts on topics like:
 
+- Internal/Back working of python.
 - ✅ Variables, Data Types, and Operators
 - 🔁 Control Flow (if-else, loops, etc.)
 -  Recursion 
@@ -29,6 +30,6 @@ This repository includes categorized Python scripts on topics like:
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+https://github.com/kunjyadav123/Python_repository/
+
 
