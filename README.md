@@ -18,7 +18,6 @@ This repository includes categorized Python scripts on topics like:
 - 🧵 Exception Handling 
 - 🧠 Object-Oriented Programming (OOP)
 - 📂 File I/O Operations
-- 🔍 Pythonic Tricks & Idioms
 - 🔄 List/Dictionaries Comprehension
 - AND MUCH MORE.....
 
